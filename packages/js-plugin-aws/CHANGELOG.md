@@ -1,5 +1,12 @@
 # @metaplex-foundation/js-plugin-aws
 
+## 0.17.13
+
+### Patch Changes
+
+- Updated dependencies [97800255]
+  - @metaplex-foundation/js@0.17.13
+
 ## 0.17.12
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @metaplex-foundation/js
 
+## 0.17.13
+
+### Patch Changes
+
+- 97800255: Update Auction house doc examples
+
 ## 0.17.12
 
 ### Patch Changes
