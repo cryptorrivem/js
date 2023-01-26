@@ -1,3 +1,4 @@
+import { Buffer } from 'buffer';
 import { nftBurnBeet } from '@metaplex-foundation/mpl-candy-guard';
 import { GuardMintSettingsMissingError } from '../errors';
 import { CandyGuardManifest } from './core';
